@@ -155,18 +155,16 @@ section div.products
         'header header header header header header header header header header'
         'a b c d e f g h i j'
         'k l m n o p q r s t';
-    gap: 3px;
     margin: 0px auto;
     margin-top: 40px;
+    gap: 3px;
     
 }
 section div.products > div
 {
-    /* background-color: whitesmoke; */
     text-align: center;
-    padding: 10px;
-    /* width: 50px; */
     font-family: 'Roboto', sans-serif;
+    padding: 10px;
     font-size: 18px;
     
 }
